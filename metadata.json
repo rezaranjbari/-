@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Radar Pro",
+  "description": "Advanced multi-source cryptocurrency market scanner and technical analysis radar in Persian (Farsi) and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
